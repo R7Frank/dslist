@@ -32,7 +32,7 @@ public class Game {
         this.id = id;
         this.title = title;
         this.year = year;
-        Genre = genre;
+        this.Genre = genre;
         this.platforms = platforms;
         this.score = score;
         this.imgUrl = imgUrl;
