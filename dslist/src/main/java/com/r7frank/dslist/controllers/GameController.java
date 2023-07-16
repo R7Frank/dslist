@@ -2,7 +2,6 @@ package com.r7frank.dslist.controllers;
 
 import com.r7frank.dslist.dto.GameDTO;
 import com.r7frank.dslist.dto.GameMinDTO;
-import com.r7frank.dslist.entities.Game;
 import com.r7frank.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
